@@ -136,7 +136,13 @@
                 "warning": "#ffdd33",
                 "warning.background": "#0e0e0e",
                 "warning.border": "#1a1a1a",
-                "players": [],
+                "players": [
+                    {
+                        "cursor": "#ffdd33ff",
+                        "background": "#404040ff",
+                        "selection": "#404040bf"
+                    }
+                ],
                 "syntax": {
                     "attribute": {
                         "color": "#95a99f",
@@ -154,12 +160,12 @@
                         "font_weight": 400
                     },
                     "comment": {
-                        "color": "#cc8c3c",
+                        "color": "#6f6f6f",
                         "font_style": "normal",
                         "font_weight": 400
                     },
                     "comment.doc": {
-                        "color": "#cc8c3c",
+                        "color": "#6f6f6f",
                         "font_style": "normal",
                         "font_weight": 400
                     },
